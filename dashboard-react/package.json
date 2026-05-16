@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "chart.js": "^4.5.1",
+=======
+>>>>>>> 4a1b7e187e3554fa26b61fa81ac0c542b4ef5a80
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
   },
@@ -28,4 +31,8 @@
     "typescript-eslint": "^8.59.2",
     "vite": "^8.0.12"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4a1b7e187e3554fa26b61fa81ac0c542b4ef5a80
