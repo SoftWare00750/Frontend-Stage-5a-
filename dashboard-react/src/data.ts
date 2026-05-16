@@ -72,4 +72,4 @@ export const COMMON_CHART_OPTS = {
       min: 0, max: 100,
     },
   },
-};
+                                                                                                                                                                                                                                                                  };
